@@ -25,3 +25,7 @@ After that you can add this profile to your Windows Terminal .json file.
 You can also use *plink.exe*, but plink does not give support for the arrow keys, the <br />
 escape key, nor the function keys, but in return acts more like an interactive session.
 
+### Todo
+
+Add log file (either json or text) and make it so you can save sessions and chose from them on startup (ip and putty session). <br />
+Mabye encrypt the log file and let the user add a personal key. Also, mabye let the user chose from different connection protocols. 
