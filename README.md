@@ -28,4 +28,5 @@ escape key, nor the function keys, but in return acts more like an interactive s
 ### Todo
 
 Add log file (either json or text) and make it so you can save sessions and choose from them on startup (ip and putty session). <br />
-Mabye encrypt the log file and let the user add a personal key. Also, mabye let the user choose from different connection protocols.
+Mabye encrypt the log file and let the user add a personal key. Also, mabye let the user choose from different connection protocols. <br />
+Switch to either C++, rust, or golang.
